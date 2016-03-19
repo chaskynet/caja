@@ -1,0 +1,216 @@
+th{
+	text-align: center;
+}
+
+.logo{
+	
+	width: 70%;
+}
+
+.list-articulos{
+	color:#000;
+	text-align: center;
+}
+
+.modal
+{
+    overflow: hidden;
+}
+
+
+
+/*  */
+.tabla-fija thead { display:block; margin:0px; cell-spacing:0px; left:0px; }
+.tabla-fija tbody { display:block; overflow:auto; height:450px; }
+.tabla-fija tr {display: block;}
+/*.tabla-fija th { height:50px;  }*/
+.tabla-fija td { margin:0px; cell-spacing:0px;}
+
+/* */
+
+.tabla {
+	margin: auto;
+	display: table;
+}
+.fila {
+	display: table-row;
+}
+.celda {
+	display: table-cell;
+}
+
+.resaltar:hover{
+	background-color: #666;
+	color: white;
+}
+
+.ocultar{
+	display: none;
+}
+
+.chkbox{
+	margin-right: 4% !important;
+}
+
+.cantidad{
+	text-align: right;
+	width: 30%;
+}
+
+.cantidad_texto{
+	text-align: right;
+}
+
+.texto{
+	text-align: left;
+}
+
+.cabecera_salida{
+	text-align: left;
+}
+
+.color_botones{
+	background-color: #74767F;
+}
+
+.ocultar{
+	display: none;
+}
+
+.centrar{
+	text-align: center;
+	padding-top: 3%;
+}
+
+.centrar_texto{
+	text-align: center;
+	padding-top: 5px;
+}
+
+.buscador{
+	padding-top: 1%;
+	float: right;
+}
+
+.buscador_conteo{
+	clear: both;
+	width: %;
+
+}
+
+.btn-editar{
+	float: right;
+	margin-right: 3%;
+}
+
+.to_pdf{
+	
+	float: right;
+}
+
+.flotar-izquierda{
+	float: left;
+}
+
+.texto_tablas{
+	font-size: 11px;
+}
+
+.table tbody tr:hover{
+	background-color: #F5F6CE;
+}
+
+.cabecera thead{
+	background-color: #6e6e6e;
+	color: white;
+}
+
+.imagen{
+	width: 10%;
+}
+
+.printer{
+	margin-right: 2%;
+	margin-left: 0px;
+	margin-bottom: 1%;
+}
+
+.printer2{
+	float: left;
+	margin-left: 5%;
+	width: 25%;
+}
+
+.icono{
+	background: url("../images/lupa.png") no-repeat 0 0 transparent;
+	background-size: 17px 17px;
+	padding-left: 22px;
+}
+
+.input{
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom: solid 1px;
+	width: 76%;
+}
+
+.alinear_vertical{
+	margin-top: 10%;
+}
+
+.alinear_vertical2{
+	margin-top: 5%;
+}
+
+.bg-america{
+	background-color: #D8D8D8;
+}
+
+.ventana_modal {
+	height: 200px;
+	overflow: scroll;
+}
+
+.etiqueta{
+	font-size: 16px;
+}
+
+a{
+	color: #000;
+}
+
+.caja{
+	width: 400px;
+	font-size: 14px;
+}
+
+.caja_nuevo_movimiento{
+	width: 550px;
+	font-size: 14px;	
+}
+
+.ventana_modal_movimiento{
+	height: 400px;
+	overflow: scroll;
+}
+
+.caja_usr{
+	width: 750px;
+}
+
+.para_check{
+	padding-top: 10%;
+}
+
+.para_check_new{
+	padding-top: 3%;
+}
+
+.boton_crear{
+	margin-top: 10%;	
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
